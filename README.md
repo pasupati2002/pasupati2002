@@ -15,11 +15,11 @@ Building responsive, full-stack web applications and exploring how modern tools 
 
 ## 🧰 Technical Skills
 
-**Programming Languages:** Java, JavaScript
-**Web Technologies:** HTML, CSS, React.js, Node.js, Express.js, REST APIs
-**Databases:** MySQL, MongoDB
-**Core Concepts:** Data Structures & Algorithms, OOPs, AI (Basics)
-**Version Control:** Git, GitHub
+- **Programming Languages:** Java, JavaScript
+- **Web Technologies:** HTML, CSS, React.js, Node.js, Express.js, REST APIs
+- **Databases:** MySQL, MongoDB
+- **Core Concepts:** Data Structures & Algorithms, OOPs, AI (Basics)
+- **Version Control:** Git, GitHub
 
 ---
 
