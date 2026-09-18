@@ -41,7 +41,7 @@ A responsive AI chatbot built with **Node.js, Express.js, JavaScript, HTML, and 
 
 A music streaming web app inspired by modern streaming platforms, with dynamic song browsing, album artwork, audio playback, progress tracking, and playback controls — built with **JavaScript, HTML, and CSS** for a smooth cross-device experience.
 
-### 💬 LiveLink — Real-Time Communication App | [🌐 Live Demo](https://real-time-chat-q96m.vercel.app/)
+### 💬 PulseChat — Real-Time Communication App | [🌐 Live Demo](https://real-time-chat-q96m.vercel.app/)
 
 A full-stack real-time chat platform built with **React, Node.js, Express, MongoDB, and Socket.IO**. Includes secure authentication, instant messaging, online/offline presence, and file/image sharing, with RESTful APIs and production deployment.
 
