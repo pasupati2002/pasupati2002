@@ -1,71 +1,102 @@
-<h1 align="center">Hi, I'm Pasupati Nath Jha 👋</h1>
+<div align="center">
 
-<h3 align="center">IT Fresher · Web Developer · Problem Solver</h3>
+# Hi, I'm Pasupati Nath Jha 👋
 
-<p align="center">
-Building responsive, full-stack web applications and exploring how modern tools like AI APIs and real-time systems fit into them.
-</p>
+### IT Fresher · Web Developer · Problem Solver
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pasupati-nath-jha-549194220">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gkj5432@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/pasupati2002">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+*Building responsive, full-stack web applications and exploring how modern tools like AI APIs and real-time systems fit into them.*
+
+[![](https://komarev.com/ghpvc/?username=pasupati2002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
 ## 🧰 Technical Skills
 
-* **Programming Languages:** Java, JavaScript
-* **Web Technologies:** HTML, CSS, React.js, Node.js, Express.js, REST APIs
-* **Databases:** MySQL, MongoDB
-* **Core Concepts:** Data Structures & Algorithms, OOPs, AI (Basics)
-* **Version Control:** Git, GitHub
-* **Soft Skills:** Critical Thinking, Data-Driven Decision Making, Communication, Presentation
+| Category | Skills |
+|---|---|
+| **Programming Languages** | Java, JavaScript |
+| **Web Technologies** | HTML, CSS, React.js, Node.js, Express.js, REST APIs |
+| **Databases** | MySQL, MongoDB |
+| **Core Concepts** | Data Structures & Algorithms, OOPs, AI (Basics) |
+| **Version Control** | Git, GitHub |
+| **Soft Skills** | Critical Thinking, Data-Driven Decision Making, Communication, Presentation |
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🤖 ConversAI — Gemini-Powered Conversational Assistant | [🌐 Live Demo](https://converseai-8cez.onrender.com/)
+### 🤖 ConversAI: Gemini-Powered Conversational Assistant
+[🌐 **Live Demo**](https://converseai-8cez.onrender.com/)
 
-A responsive AI chatbot built with **Node.js, Express.js, JavaScript, HTML, and CSS**, integrated with the **Google Gemini API** for real-time natural-language responses. Features a RESTful `/api/chat` endpoint, secure API-key management via environment variables, error handling with automatic retry logic, and a mobile-responsive glassmorphism UI.
+A responsive AI chatbot built with **Node.js, Express.js, JavaScript, HTML, and CSS**, integrated with the **Google Gemini API** for real-time natural-language responses.
 
-### 🎵 Melodify — Responsive Music Streaming Web App | [🌐 Live Demo](https://charming-maamoul-8fb644.netlify.app/)
+- RESTful `/api/chat` endpoint
+- Secure API-key management via environment variables
+- Error handling with automatic retry logic
+- Mobile-responsive glassmorphism UI
 
-A music streaming web app inspired by modern streaming platforms, with dynamic song browsing, album artwork, audio playback, progress tracking, and playback controls — built with **JavaScript, HTML, and CSS** for a smooth cross-device experience.
+---
 
-### 💬 PulseChat — Real-Time Communication App | [🌐 Live Demo](https://real-time-chat-q96m.vercel.app/)
+### 🎵 Melodify: Responsive Music Streaming Web App
+[🌐 **Live Demo**](https://charming-maamoul-8fb644.netlify.app/)
 
-A full-stack real-time chat platform built with **React, Node.js, Express, MongoDB, and Socket.IO**. Includes secure authentication, instant messaging, online/offline presence, and file/image sharing, with RESTful APIs and production deployment.
+A music streaming web app inspired by modern streaming platforms, built with **JavaScript, HTML, and CSS** for a smooth cross-device experience.
+
+- Dynamic song browsing and album artwork
+- Audio playback with progress tracking
+- Full playback controls
+
+---
+
+### 💬 PulseChat: Real-Time Communication App
+[🌐 **Live Demo**](https://real-time-chat-q96m.vercel.app/)
+
+A full-stack real-time chat platform built with **React, Node.js, Express, MongoDB, and Socket.IO**.
+
+- Secure authentication
+- Instant messaging
+- Online/offline presence
+- File and image sharing
+- RESTful APIs and production deployment
 
 ---
 
 ## 🎓 Education
 
-* **Bengal Institute of Technology** — B.Tech in Information Technology (2021 – 2025), CGPA: 7.86
-* **Shree Jain Vidyalaya** — WBCHSE (2019 – 2021), 73.4%
-* **HindMotor High School** — WBBSE (2018 – 2019), 71.28%
+| Institution | Qualification | Duration | Score |
+|---|---|---|---|
+| **Bengal Institute of Technology** | B.Tech in Information Technology | 2021 – 2025 | CGPA: 7.86 |
+| **Shree Jain Vidyalaya** | WBCHSE | 2019 – 2021 | 73.4% |
+| **HindMotor High School** | WBBSE | 2018 – 2019 | 71.28% |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasupati2002&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasupati2002&layout=compact&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=pasupati2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=pasupati2002&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pasupati2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
-<p align="center"> <i>Open to opportunities in Web Development — feel free to connect!</i> </p>
+<div align="center">
 
----
+### 🤝 Open to opportunities in Web Development, feel free to connect!
 
-<p align="center"> ⭐ Thanks for visiting my profile! </p>
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
