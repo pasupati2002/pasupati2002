@@ -6,7 +6,11 @@
 
 *Building responsive, full-stack web applications and exploring how modern tools like AI APIs and real-time systems fit into them.*
 
-[![](https://komarev.com/ghpvc/?username=pasupati2002&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasupati2002)
 
 </div>
 
