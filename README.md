@@ -76,4 +76,31 @@ A full-stack real-time chat platform built with **React, Node.js, Express, Mongo
 | Institution | Qualification | Duration | Score |
 |---|---|---|---|
 | **Bengal Institute of Technology** | B.Tech in Information Technology | 2021 – 2025 | CGPA: 7.86 |
-| **Shree Jain Vidyalaya** | WBCHSE
+| **Shree Jain Vidyalaya** | WBCHSE | 2019 – 2021 | 73.4% |
+| **HindMotor High School** | WBBSE | 2018 – 2019 | 71.28% |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=pasupati2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=pasupati2002&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pasupati2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to opportunities in Web Development, feel free to connect!
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
