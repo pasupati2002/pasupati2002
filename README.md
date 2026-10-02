@@ -76,7 +76,7 @@ A full-stack real-time chat platform built with **React, Node.js, Express, Mongo
 | Institution | Qualification | Duration | Score |
 |---|---|---|---|
 | **Bengal Institute of Technology** | B.Tech in Information Technology | 2021 – 2025 | CGPA: 7.86 |
-| **Shree Jain Vidyalaya** | WBCHSE | 2019 – 2021 | 73.4% |
+| **Shree Jain Vidyalaya** | WBCHSE | 2020 – 2021 | 73.4% |
 | **HindMotor High School** | WBBSE | 2018 – 2019 | 71.28% |
 
 ---
