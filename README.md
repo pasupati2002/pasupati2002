@@ -23,7 +23,7 @@
 | **Programming Languages** | Java, JavaScript |
 | **Web Technologies** | HTML, CSS, React.js, Node.js, Express.js, REST APIs |
 | **Databases** | MySQL, MongoDB |
-| **Core Concepts** | Data Structures & Algorithms, OOPs, AI (Basics) |
+| **Core Concepts** | Data Structures & Algorithms, OOPs, Generative AI |
 | **Version Control** | Git, GitHub |
 | **Soft Skills** | Critical Thinking, Data-Driven Decision Making, Communication, Presentation |
 
