@@ -21,11 +21,12 @@
 | Category | Skills |
 |---|---|
 | **Programming Languages** | Java, JavaScript |
-| **Web Technologies** | HTML, CSS, React.js, Node.js, Express.js, REST APIs |
+| **Frontend Development** | HTML5, CSS3, React.js |
+| **Backend Development** | Node.js, Express.js, RESTful APIs |
 | **Databases** | MySQL, MongoDB |
-| **Core Concepts** | Data Structures & Algorithms, OOPs, Generative AI |
-| **Version Control** | Git, GitHub |
-| **Soft Skills** | Critical Thinking, Data-Driven Decision Making, Communication, Presentation |
+| **Core Concepts** | Data Structures & Algorithms, OOPs, API Integration, Generative AI |
+| **Version Control** | Git, GitHub, Vercel, Render |
+| **Soft Skills** | Problem Solving, Critical Thinking, Communication, Presentation Skills, Data-Driven Decision Making |
 
 ## 💻 Tech Stack
 
